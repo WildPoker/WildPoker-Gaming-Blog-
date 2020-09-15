@@ -79,7 +79,7 @@ body {
       rgba(0, 0, 0, 0.87),
       rgba(255, 255, 255, 0)
     ),
-    url("/images/divine-sword-irelia-league-of-legends-4k-5j.jpg");
+    url("../images/divine-sword-irelia-league-of-legends-4k-5j.jpg");
   background-size: cover;
   border-bottom: black 3px solid;
 }
